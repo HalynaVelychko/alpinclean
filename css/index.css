@@ -45,6 +45,10 @@ h2, .navbar-nav {
 h2 {
     padding-top: 4%;
 }
+
+@media (max-width:645px){
+    
+}
 .top-bar {
     display: flex;
     justify-content: space-between;
@@ -84,7 +88,7 @@ nav .navbar {
 }
 
 .logo-alp {
-    margin-top: 10px;
+    margin-top: -40px;
     margin-left: 50px;
 }
 
